@@ -30,7 +30,7 @@ const About = () => {
                 </li>
                 <li>
                   <i className="bi bi-check-circle" /> No school can work except
-                  to achieve the objectives of it. irure pain to condemn in
+                  to achieve the objectives of it. Inure pain to condemn in
                   pleasure
                 </li>
               </ul>

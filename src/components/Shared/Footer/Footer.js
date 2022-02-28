@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="container">
               <div className="row justify-content-center">
                 <div className="col-lg-6">
-                  <h3>BD Traveller's Point</h3>
+                  <h3>BD Tour Guide</h3>
                   <p>
                     subscribe to our newsletter to receive latest offers about
                     our tour planning and travellers
@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="copyright">
               © Copyright{" "}
               <strong>
-                <span>BD Traveller's Point</span>
+                <span>BD Tour Guide</span>
               </strong>
               . All Rights Reserved
             </div>

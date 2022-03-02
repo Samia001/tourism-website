@@ -852,10 +852,13 @@ section {
   text-align: center;
   margin-bottom: 20px;
   padding: 30px 20px;
-  background: #fff;
+  background:  #ECECF1;
+  border-radius: 10px;
 }
 .team .member img {
   max-width: 100%;
+  height: 216px;
+  border-radius: 10px;
   margin: 0 0 30px 0;
 }
 .team .member h4 {
@@ -872,7 +875,7 @@ section {
   padding-top: 10px;
   font-size: 14px;
   font-style: italic;
-  color: #aaaaaa;
+  color: #afa9a9;
 }
 .team .member .social {
   margin-top: 15px;
